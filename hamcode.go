@@ -7,6 +7,9 @@
 //  decode             Print the data binary code inside the input Hamming code
 //  help, -h, --help   Print the help
 //
+// Available Options:
+//   --rtl	       Interpret the code from right to left
+//
 // Author: Hamidreza Mahdavipanah
 // Repository: github.com/mahdavipanah/hamcode
 package main
@@ -191,6 +194,9 @@ Available Commands:
   encode             Print the encoded data binary using Hamming code
   decode             Print the data binary code inside the input Hamming code
   help, -h, --help   Print the help
+
+Available Options:
+  --rtl		     Interpret the code from right to left
 
 Author: Hamidreza Mahdavipanah
 Repository: http://github.com/mahdavipanah/hamcode`)
