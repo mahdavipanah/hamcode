@@ -3,7 +3,7 @@ Encode, decode and correct (single bit) a binary code using Hamming code.
 
 ## Install
 ```Bash
-go install github.com/mahdavipanah/hamcode
+go get github.com/mahdavipanah/hamcode
 ```
 
 ## Usage
