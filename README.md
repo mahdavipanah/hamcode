@@ -2,6 +2,7 @@
 Encode, decode and correct (single bit) a binary code using Hamming code.
 
 ## Install
+Make sure you have [Go programming language](http://golang.org) installed. Then run the following command:
 ```Bash
 go get github.com/mahdavipanah/hamcode
 ```
